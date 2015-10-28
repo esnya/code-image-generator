@@ -1,0 +1,4 @@
+name "code-image-generator"
+description "Generates image file of source codes to sharing any short text SNS (i.e. Twitter)."
+copyright "Copyright © 2015, ukatama"
+authors "ukatama"
